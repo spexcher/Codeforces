@@ -14,7 +14,7 @@ The repository is structured into the following folders based on problem difficu
 
 ## How to Use
 
-Each folder contains solutions to problems written in C++ programming languages (depending on the problem). You can explore the solutions by navigating to the appropriate folder and finding the solution file for the specific problem.
+Each folder contains solutions to problems written in C++ and Python programming languages (depending on the problem). You can explore the solutions by navigating to the appropriate folder and finding the solution file for the specific problem.
 
 The file names usually correspond to the problem name or number on Codeforces. Each file also includes comments describing the approach and thought process behind solving the problem.
 
