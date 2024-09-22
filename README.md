@@ -60,4 +60,4 @@ Contributions are welcome! If you have a better solution to an existing problem 
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This repository is licensed under the MIT License.
